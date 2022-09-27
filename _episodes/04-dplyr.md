@@ -1,5 +1,6 @@
 ---
 title: "Manipulating, analyzing and exporting data with tidyverse"
+start: true
 teaching: 50
 exercises: 30
 questions:
